@@ -1,0 +1,12 @@
+# Site settings
+title: "tokuhirom's notes."
+email: tokuhirom@gmail.com
+description: "Shut the fuck up and write some code"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty

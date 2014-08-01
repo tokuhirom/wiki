@@ -1,3 +1,9 @@
+---
+layout: page
+title: JSON
+permalink: /json/
+---
+
 # JSON releated things
 
 ## JSON Schema
