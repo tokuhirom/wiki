@@ -1,4 +1,4 @@
 wiki
 ====
 
-[http://tokuhirom.github.io/wiki/](http://tokuhirom.github.io/wiki/)
+See https://github.com/tokuhirom/wiki/wiki
